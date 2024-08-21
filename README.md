@@ -1,5 +1,6 @@
 #Follow me on Linkedin 
-🔗 [https://www.linkedin.com/in/omair-akbar/]
+<br/>
+🔗 https://www.linkedin.com/in/omair-akbar/
 
 # 🛡️ Profile Badges
 
